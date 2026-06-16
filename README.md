@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/7dc6f0cd-a484-406b-9ea3-c61529c3aa33
+
 # Atari Breakout — x86 Assembly (DOS)
 
 A fully functional **Breakout-style arcade game** written in **x86 Assembly language**, designed to run on DOSBox. Built as a low-level systems programming project using DOS BIOS interrupts for graphics, keyboard input, and file I/O.
