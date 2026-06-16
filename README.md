@@ -77,8 +77,6 @@ Then run `Atari_breakout.com` in DOSBox as described above.
 
 ---
 
----
-
 ## Technical Details
 
 | Property        | Detail                          |
@@ -91,8 +89,6 @@ Then run `Atari_breakout.com` in DOSBox as described above.
 | Game Loop       | Timer ISR via INT 8 hook        |
 | File I/O        | DOS INT 21h (high score saving) |
 | Language        | x86 Assembly (`.asm`)           |
-
----
 
 ---
 
